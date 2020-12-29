@@ -20,6 +20,7 @@ h1, h2, h3, h4 {
 
 .date {
     color: #76783c;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
 .save {
@@ -38,9 +39,12 @@ h1, h2, h3, h4 {
 }
 
 .post {
+    font-size: 15pt;
     margin-bottom: 70px;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 
 .post h1 a, .post h1 a:visited {
     color: #ac754a;
+    font-family: 'Nanum Gothic', sans-serif;
 }
