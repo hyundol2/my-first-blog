@@ -10,6 +10,7 @@
              <p>{{ post.text|linebreaksbr }}</p>
         {% for photo in post.photo_set.all%}
             <img src="{{photo.image.url}}" width="150"><br>
+            <br>
         {% endfor %}
          </div>
     {% endfor %}
